@@ -31,11 +31,15 @@ exports default Welcome;
 
 ## Styles List
 
-[Background Colors](#background_Colors)
+[Background Colors](#Background_Colors)
 
 ---
 
-## background_Colors
+## Background_Colors 💡
+
+- bgRed
+- bgBlack
+- bgBlue
 
 ---
 
