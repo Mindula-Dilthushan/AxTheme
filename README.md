@@ -36,11 +36,11 @@ exports default Welcome;
 
 ## Features
 
-[Background Colors](#Background_Colors)
+[Background Colors](#background)
 
 ---
 
-## Background_Colors 💡
+## Background Colors 💡
 
 - bgRed
 - bgBlack
