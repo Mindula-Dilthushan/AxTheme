@@ -31,11 +31,11 @@ exports default Welcome;
 
 ## Styles List
 
-[Background Colors](#backgroundColors)
+[Background Colors](#background_Colors)
 
 ---
 
-## backgroundColors
+## background_Colors
 
 ---
 
