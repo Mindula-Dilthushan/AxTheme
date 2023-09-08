@@ -1,6 +1,6 @@
 {
   "name": "ax-theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This package exports the Ax-Theme object, which contains predefined styles.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Mindula-Dilthushan/AxTheme/issues"
   },
-  "homepage": "https://github.com/Mindula-Dilthushan/AxTheme#readme"
+  "homepage": "https://github.com/Mindula-Dilthushan/AxTheme#readme",
+  "dependencies": {
+    "react-native": "^0.72.4"
+  }
 }
