@@ -1,7 +1,12 @@
 <div align="center">
 
-# Ax-Theme
+# Ax-Theme  
+
 </div>
+
+A comprehensive React Native styles package designed to simplify and enhance your mobile app development experience.
+
+[![npm version](https://img.shields.io/npm/v/ax-theme?labelColor=black&color=636e72&style=for-the-badge)](https://www.npmjs.com/package/ax-theme)
 
 ## Installation
 
@@ -29,20 +34,19 @@ const Welcome = () => {
 exports default Welcome;
 ```
 
-## Styles List
+## Features
 
 [Background Colors](#Background_Colors)
 
 ---
 
-## Background_Colors 💡
+## Background Colors 💡
 
 - bgRed
 - bgBlack
 - bgBlue
 
 ---
-
 ![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/AxTheme?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
 ![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/AxTheme?&labelColor=black&color=8854d0&style=for-the-badge)
 
