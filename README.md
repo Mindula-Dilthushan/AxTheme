@@ -40,7 +40,7 @@ exports default Welcome;
 
 ---
 
-## Background Colors
+## Background
 
 - bgRed
 - bgBlack
