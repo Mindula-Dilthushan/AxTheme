@@ -18,7 +18,7 @@ npm install ax-theme
 
 ## Usage
 
-Import the `AxTheme` object in your React.js application:
+Import the `AxTheme` object in your React Native application:
 
 ```javascript
 import AxTheme from 'ax-theme';
