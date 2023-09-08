@@ -36,7 +36,7 @@ exports default Welcome;
 
 ## Features
 
-[Background Colors](#Background)
+[Background Colors](#Background Colors)
 
 ---
 
