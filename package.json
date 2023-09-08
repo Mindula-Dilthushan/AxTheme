@@ -1,6 +1,6 @@
 {
   "name": "ax-theme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package exports the Ax-Theme object, which contains predefined styles.",
   "main": "index.js",
   "scripts": {
