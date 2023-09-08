@@ -40,7 +40,7 @@ exports default Welcome;
 
 ---
 
-## B 💡
+## B
 
 - bgRed
 - bgBlack
