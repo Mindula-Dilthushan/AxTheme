@@ -35,7 +35,7 @@ exports default Welcome;
 
 ---
 
-### Bg Colors
+## Bg Colors
 
 ---
 
