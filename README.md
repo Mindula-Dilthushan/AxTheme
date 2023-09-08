@@ -1,13 +1,46 @@
 <div align="center">
 
-# AxTheme
+# Ax-Theme
 </div>
 
 #### Clone this repository ✅
 ```md
-git clone https://github.com/Mindula-Dilthushan/AxTheme.git
+git clone https://github.com/Mindula-Dilthushan/Index.git
 ```
 ###
+
+## Installation
+
+Install this package using npm or yarn:
+
+```
+npm install ax-theme
+```
+
+## Usage
+
+Import the `AxTheme` object in your React.js application:
+
+```javascript
+   import { AxTheme } from 'ax-theme';
+   // Use the styles in your components
+```
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/AxTheme?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
 ![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/AxTheme?&labelColor=black&color=8854d0&style=for-the-badge)
